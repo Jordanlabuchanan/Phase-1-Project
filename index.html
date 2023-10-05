@@ -1,11 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <title>Games Rating app</title>
 </head>
 <body>
-    <script src="index.js"></script>
+    <header>
+        <div id="Nintendo-header">
+          <img
+            src="https://seeklogo.com/images/N/nintendo-switch-logo-E671C9A32A-seeklogo.com.png"
+            alt="Nintendo-header"
+          />
+        </div>
+    </header>
+
+    <h1>Nintendo Switch Games</h1>
+    <h2>Rated by my kids</h2>
+
+    <!-- Filter by Rating dropdown and button -->
+    <label for="ratingSelect">Filter by Rating:</label>
+    <select id="ratingSelect">
+        <option value="all">All Ratings</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+
+    </select>
+    <button id="filterButton">Show</button>
+
+    <!-- Game list container -->
+    <main>
+        <div id="game-list"></div>
+    </main>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+    <script type="text/javascript" src="src/index.js"></script>
 </body>
 </html>

@@ -1,5 +1,5 @@
 {
-    "NintendoGames": [ 
+    "nintendoGames": [ 
         {
             "id": 1,
             "name": "The Legend of Zelda: Breath of the Wild",
@@ -11,8 +11,8 @@
           {
             "id": 2,
             "name": "Mario Kart 8 Deluxe",
-            "image": "https://mariokart8.nintendo.com/assets/img/global/logo-mk8https://images.nintendolife.com/802713810685c/mario-kart-8-deluxe-cover.cover_large.jpg.",
-            "rating": 5.5
+            "image": "https://images.nintendolife.com/802713810685c/mario-kart-8-deluxe-cover.cover_large.jpg",
+            "rating": 8
             
           },
 
@@ -25,14 +25,6 @@
 
           {
             "id": 4,
-            "name": "Fortnite",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png",
-            "rating": 10
-            
-          },
-
-          {
-            "id": 5,
             "name": "Super Mario Odyssey",
             "image": "https://images.nintendolife.com/79d7d24eda071/super-mario-odyssey-cover.cover_large.jpg",
             "rating": 9
@@ -40,14 +32,7 @@
           },
 
           {
-            "id": 6,
-            "name": "Animal Crossing: New Horizons",
-            "image": "https://images.nintendolife.com/bf43ef284f030/animal-crossing-new-horizons-cover.cover_large.jpg",
-            "rating": 10
-          },
-
-          {
-            "id": 7,
+            "id": 5,
             "name": "The Legend of Zelda: Tears of the Kingdom",
             "image": "https://images.nintendolife.com/3c28307f2fe0a/legend-of-zelda-tears-of-the-kingdom-cover.cover_large.jpg",
             "rating": 10
@@ -55,162 +40,126 @@
           },
 
           {
-            "id": 8,
-            "name": "Kirby and the Forgotten Land",
-            "image": "https://images.nintendolife.com/1ddb829d9a730/kirby-and-the-forgotten-land-cover.cover_large.jpg",
-            "rating": 10
-            
-          },
-
-          {
-            "id": 9,
+            "id": 6,
             "name": "Pokémon Legends: Arceus",
-            "image": "https://legends.pokemon.com/en-us/assets/arceus-logo.png",
+            "image": "https://images.nintendolife.com/2889c0391401b/pokemon-legends-arceus-cover.cover_large.jpg",
             "rating": 10
           },
 
           {
-            "id": 10,
+            "id": 7,
             "name": "Super Mario Maker 2",
             "image": "https://images.nintendolife.com/8ea5ee2768ec7/super-mario-maker-2-cover.cover_large.jpg",
             "rating": 6
           },
 
           {
-            "id": 11,
+            "id": 8,
             "name": "Super Smash Bros. Ultimate",
             "image": "https://images.nintendolife.com/73b5ee31cad64/super-smash-bros-ultimate-cover.cover_large.jpg",
             "rating": 10
           },
 
           {
-            "id": 12,
+            "id": 9,
             "name": "Yoshi's Crafted World",
             "image": "https://images.nintendolife.com/aab88bcc87bfc/yoshis-crafted-world-cover.cover_large.jpg",
             "rating": 10
           },
 
           {
-            "id": 13,
+            "id": 10,
             "name": "Pokémon Sword and Shield",
             "image": "https://images.nintendolife.com/3a05fd6031965/pokemon-sword-and-shield-cover.cover_large.jpg",
             "rating": 10
           },
 
           {
-            "id": 14,
+            "id": 11,
             "name": "Super Mario 3D World + Bowser's Fury",
             "image": "https://images.nintendolife.com/af6ce646506f1/super-mario-3d-world-plus-bowsers-fury-cover.cover_large.jpg",
             "rating": 9
           },
 
           {
-            "id": 15,
+            "id": 12,
             "name": "Mario Party Superstars",
             "image": "https://images.nintendolife.com/778a5c46b43fa/mario-party-superstars-cover.cover_large.jpg",
             "rating": 10
           },
 
           {
-            "id": 16,
+            "id": 13,
             "name": "One Piece: Pirate Warriors 4",
             "image": "https://images.nintendolife.com/0d5400a2266f3/one-piece-pirate-warriors-4-cover.cover_large.jpg",
             "rating": 3
           },
 
           {
-            "id": 17,
-            "name": "Sonic Frontiers",
-            "image": "https://images.nintendolife.com/380de490207d6/sonic-frontiers-cover.cover_large.jpg",
-            "rating": 10
-          },
-
-          {
-            "id": 18,
+            "id": 14,
             "name": "Mario + Rabbids Kingdom Battle",
             "image": "https://images.nintendolife.com/7852c6bbecb19/mario-plus-rabbids-kingdom-battle-cover.cover_large.jpg",
             "rating": 5
           },
 
           {
-            "id": 19,
+            "id": 15,
             "name": "Dragon Ball FighterZ",
             "image": "https://images.nintendolife.com/0a4dc0dd51cb4/dragon-ball-fighterz-cover.cover_large.jpg",
             "rating": 9
           },
 
           {
-            "id": 20,
+            "id": 16,
             "name": "Minecraft",
             "image": "https://images.nintendolife.com/1a5320e592ccd/minecraft-cover.cover_large.jpg",
             "rating": 10
           },
 
           {
-            "id": 21,
+            "id": 17,
             "name": "Mario Golf: Super Rush",
             "image": "https://images.nintendolife.com/e0cacaf685b5a/mario-golf-super-rush-cover.cover_large.jpg",
             "rating": 8
           },
 
           {
-            "id": 22,
+            "id": 18,
             "name": "Paper Mario: The Origami King",
             "image": "https://images.nintendolife.com/ec187ea5fc72d/paper-mario-the-origami-king-cover.cover_large.jpg",
             "rating": 4
           },
 
           {
-            "id": 23,
-            "name": "Crash Bandicoot N. Sane Trilogy",
-            "image": "https://images.nintendolife.com/bc25734560ff8/crash-bandicoot-n-sane-trilogy-cover.cover_large.jpg",
-            "rating": 7
-          }, 
-
-          {
-            "id": 24,
+            "id": 19,
             "name": "Mario & Sonic at the Olympic Games Tokyo 2020",
             "image": "https://images.nintendolife.com/1a8dff503dda3/mario-and-sonic-at-the-olympic-games-tokyo-2020-cover.cover_large.jpg",
             "rating": 3
           },          
           
           {
-            "id": 25,
+            "id": 20,
             "name": "Sonic Mania Plus",
             "image": "https://images.nintendolife.com/1b8c9953c7de1/sonic-mania-plus-cover.cover_large.jpg",
             "rating": 10
           },          
           
           {
-            "id": 26,
+            "id": 21,
             "name": "Spyro Reignited Trilogy",
             "image": "https://images.nintendolife.com/06c2e64dabf5f/spyro-reignited-trilogy-cover.cover_large.jpg",
             "rating": 10
           },          
           
           {
-            "id": 27,
+            "id": 22,
             "name": "Sonic Forces",
             "image": "https://images.nintendolife.com/b41841a731bbe/sonic-forces-cover.cover_large.jpg",
             "rating": 6
-          },          
+          },               
           
           {
-            "id": 28,
-            "name": "Cooking Mama: Cookstar",
-            "image": "https://images.nintendolife.com/ba1c63d97d732/cooking-mama-cookstar-cover.cover_large.jpg",
-            "rating": 7
-          },          
-          
-          {
-            "id": 29,
-            "name": "Sonic Colors Ultimate",
-            "image": "https://images.nintendolife.com/46a069e3b8f83/sonic-colors-ultimate-cover.cover_large.jpg",
-            "rating": 2
-          },          
-          
-          {
-            "id": 30,
+            "id": 23,
             "name": "Bendy And The Ink Machine",
             "image": "https://images.nintendolife.com/fa4ee32a4c4f2/bendy-and-the-ink-machine-cover.cover_large.jpg",
             "rating": 8
