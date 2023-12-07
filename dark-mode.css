@@ -1,0 +1,18 @@
+/*Dark Mode*/
+
+/* dark-mode.css */
+body.dark-mode {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Light text color */
+}
+
+.dark-mode header {
+    background-color: #222; /* Dark header background color */
+    color: #ddd; /* Light header text color */
+}
+
+main {
+    background-color: #333;
+    padding: 50px;
+}
+
