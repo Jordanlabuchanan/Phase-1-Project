@@ -8,8 +8,8 @@ This is a web application that displays a list of Nintendo Switch games rated by
 # Features
 - Display a list of Nintendo Switch games.
 - Filter games by their ratings.
-- Click an image and drag to toggle dark mode for the website.
-- Hover over games to see a white background.
+- Click "Dark Mode" to toggle between views of the web page.
+- Hover over games to see a grey background.
 
 
 
