@@ -32,9 +32,9 @@ data using a JSON server. Run `json-server --watch db.json` to start the server.
 
 3. Click the "Show" button to apply the filter.
 
-4.  Click an image and drag to toggle between dark and light mode for the website.
+4.  Click "Dark Mode" to toggle between dark and light mode for the web page background.
 
-5. Hover over a game to see a white background.
+5. Hover over a game to see a grey background.
 
 # Acknowledgments
 - Nintendo for providing the games!
